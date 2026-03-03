@@ -10,3 +10,14 @@ The user can define:
 - Whether to include numbers  
 - Whether to include special characters  
 
+## 🖥 User Interaction
+
+The script prompts the user to input:
+
+- Desired minimum length
+
+- Whether to include numbers
+
+- Whether to include special characters
+
+It then prints a secure password that satisfies all constraints.
